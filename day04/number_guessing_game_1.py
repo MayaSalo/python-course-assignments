@@ -11,5 +11,5 @@ while guess != random_number:
   elif guess < random_number:
     print("The number is bigger than your guess")
     guess = int(input("Guess a different whole number between 1 to 20: "))
-  else:
-    print("CORRECT! you guessed the number!")
+
+print("CORRECT! you guessed the number!")
