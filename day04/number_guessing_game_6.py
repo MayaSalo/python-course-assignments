@@ -1,7 +1,5 @@
 import random
 
-
-
 debug_mode = False
 move_mode = False
 
