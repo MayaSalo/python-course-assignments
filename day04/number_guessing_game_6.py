@@ -11,9 +11,6 @@ while True:
 
   while True:
   
-    if new:
-      random_number = random.randint(1, 20)
-  
     if debug_mode:
       print("Debug - The number is: ",random_number)
   
