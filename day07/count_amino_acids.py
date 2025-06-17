@@ -1,3 +1,5 @@
+filename = 'DNA_seq.txt'
+
 with open(filename, 'r') as file:
     seq = file.read().replace('\n', '').strip().upper()
 
