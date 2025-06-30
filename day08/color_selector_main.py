@@ -5,3 +5,6 @@ def main():
     display_colors(colors)
     selected_color = get_user_selection(colors)
     print("The selected color is:", selected_color)
+
+if __name__ == "__main__":
+    main()
